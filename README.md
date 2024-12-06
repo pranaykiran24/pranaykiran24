@@ -4,7 +4,7 @@
 - 💬 Ask me about **DevOps**
 
 - 📫 How to reach me **pranaykiran.24@gmail.com**
-  DevOps-min-min.gif
+  ./DevOps-min-min.gif
 
 - ⚡ Fun fact **I believe in "automate all the things" – including my coffee brewing process! ☕ + 🛠️ = ❤️**
 
